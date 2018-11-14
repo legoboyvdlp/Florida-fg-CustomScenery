@@ -1,0 +1,7 @@
+# osm2roads_w090n20\w081n28\1629609
+# do not edit below this line
+# Last Written Wed Nov 14 10:35:29 2018
+#
+OBJECT_ROAD_ROUGH roads_rough0200.ac -80.69884 28.63402 1.00 0
+OBJECT_ROAD_ROUGH roads_rough0301.ac -80.67837 28.65207 0.92 0
+# END osm2roads_w090n20\w081n28\1629609

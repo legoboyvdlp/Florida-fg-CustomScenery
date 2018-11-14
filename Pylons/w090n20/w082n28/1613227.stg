@@ -1,0 +1,7 @@
+# pylons_w090n20\w081n28\1629608
+# do not edit below this line
+# Last Written Wed Nov 14 10:21:29 2018
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -81.02081 28.71260 1.22 143.084
+OBJECT_BUILDING_MESH_DETAILED cables00004.ac -81.00118 28.70312 1.44 90
+# END pylons_w090n20\w081n28\1629608

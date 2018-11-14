@@ -1,0 +1,10 @@
+# piers_w090n20\w081n28\1629601
+# do not edit below this line
+# Last Written Wed Nov 14 10:35:40 2018
+#
+OBJECT_STATIC piers0605.ac -80.61714 28.59925 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -80.62050 28.59412 -0.00 95.4777
+# END piers_w090n20\w081n28\1629601
+
+OBJECT_STATIC VAB.ac -80.650556 28.585833 0.98 20
+OBJECT_STATIC LC39A.ac -80.604115 28.604832 1.43 127.5
