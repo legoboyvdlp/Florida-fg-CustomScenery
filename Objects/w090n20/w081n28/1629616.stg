@@ -1,10 +1,18 @@
 # pylonsDetails_w090n20\w081n28\1629616
 # do not edit below this line
-# Last Written Wed Nov 14 10:21:36 2018
+# Last Written Sun Nov 25 22:09:12 2018
 #
-OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.88053 28.79550 5.45 329.382
-OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.88047 28.79546 5.46 391.361
-OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.88048 28.79560 5.41 137.584
-OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.88175 28.79556 6.57 181.827
-OBJECT_STATIC dcables00038.ac -80.88111 28.79553 5.99 90
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.88053 28.79550 5.58 329.382
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.88047 28.79546 5.56 391.361
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.88048 28.79560 5.49 137.584
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.88175 28.79556 6.74 181.827
+OBJECT_STATIC dcables00038.ac -80.88111 28.79553 6.12 90
 # END pylonsDetails_w090n20\w081n28\1629616
+
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.904778 28.869611 -68.14 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.888333 28.777472 -84.41 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.873611 28.821389 -121.99 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.873056 28.803889 -137.05 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.871667 28.752222 -119.85 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.862778 28.848056 -45.21 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.835833 28.824167 -155.41 180

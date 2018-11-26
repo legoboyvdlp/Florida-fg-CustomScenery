@@ -1,7 +1,7 @@
 # pylons_w090n20\w081n28\1629592
 # do not edit below this line
-# Last Written Wed Nov 14 10:21:00 2018
+# Last Written Sun Nov 25 22:06:22 2018
 #
-OBJECT_SHARED Models/Power/generic_pylon_50m.xml -81.00187 28.44672 11.09 143.007
-OBJECT_SHARED Models/Power/generic_pylon_50m.xml -81.00223 28.39363 14.46 181.272
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -81.00187 28.44672 -0.28 143.007
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -81.00223 28.39363 -0.33 181.272
 # END pylons_w090n20\w081n28\1629592
