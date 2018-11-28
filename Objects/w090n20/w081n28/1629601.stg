@@ -1,18 +1,10 @@
-# piers_w090n20\w081n28\1629601
+# piers_w090n20_w081n28_1629601
 # do not edit below this line
-# Last Written Sun Nov 25 22:26:18 2018
+# Last Written Wed Nov 28 16:26:06 2018
 #
-OBJECT_STATIC piers0605.ac -80.61714 28.59925 0.00 0
+OBJECT_STATIC w090n20_w081n28_1629601piers0605.ac -80.61714 28.59925 0.00 0
 OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -80.62050 28.59412 0.49 95.4777
-# END piers_w090n20\w081n28\1629601
+# END piers_w090n20_w081n28_1629601
 
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.658333 28.528333 -160.9 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.656944 28.518333 -105.35 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.649444 28.588889 -49.35 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.644417 28.576194 -118.56 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.643056 28.576111 -148.61 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.586389 28.569722 -137.16 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.580833 28.500556 -43.18 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.564444 28.531111 -81.12 180
 OBJECT_STATIC VAB.ac -80.650556 28.585833 0.98 20
 OBJECT_STATIC LC39A.ac -80.60402310 28.60487175 1.43 90.5

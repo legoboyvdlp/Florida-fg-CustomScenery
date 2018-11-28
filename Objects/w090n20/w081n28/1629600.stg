@@ -1,22 +1,22 @@
-# pylonsDetails_w090n20\w081n28\1629600
+# pylonsDetails_w090n20_w081n28_1629600
 # do not edit below this line
-# Last Written Sun Nov 25 22:08:11 2018
+# Last Written Wed Nov 28 16:07:41 2018
 #
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.84453 28.55864 4.16 272.093
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.84450 28.55796 4.50 315.591
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.84302 28.55794 4.99 359.088
-OBJECT_STATIC dcables00053.ac -80.84377 28.55829 4.57 90
-# END pylonsDetails_w090n20\w081n28\1629600
-# piers_w090n20\w081n28\1629600
+OBJECT_STATIC w090n20_w081n28_1629600dcables00053.ac -80.84377 28.55829 4.57 90
+# END pylonsDetails_w090n20_w081n28_1629600
+# piers_w090n20_w081n28_1629600
 # do not edit below this line
-# Last Written Sun Nov 25 22:08:11 2018
+# Last Written Wed Nov 28 16:07:42 2018
 #
-OBJECT_STATIC piers0604.ac -80.86714 28.58121 0.00 0
-OBJECT_STATIC piers0903.ac -80.80582 28.56316 0.00 0
-OBJECT_STATIC piers0906.ac -80.80582 28.61730 0.00 0
-OBJECT_STATIC piers1002.ac -80.78538 28.54511 0.00 0
-OBJECT_STATIC piers1003.ac -80.78538 28.56316 0.00 0
-OBJECT_STATIC piers1006.ac -80.78538 28.61730 0.00 0
+OBJECT_STATIC w090n20_w081n28_1629600piers0604.ac -80.86714 28.58121 0.00 0
+OBJECT_STATIC w090n20_w081n28_1629600piers0903.ac -80.80582 28.56316 0.00 0
+OBJECT_STATIC w090n20_w081n28_1629600piers0906.ac -80.80582 28.61730 0.00 0
+OBJECT_STATIC w090n20_w081n28_1629600piers1002.ac -80.78538 28.54511 0.00 0
+OBJECT_STATIC w090n20_w081n28_1629600piers1003.ac -80.78538 28.56316 0.00 0
+OBJECT_STATIC w090n20_w081n28_1629600piers1006.ac -80.78538 28.61730 0.00 0
 OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -80.80034 28.61980 -0.00 6.36293
 OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.79986 28.62027 -0.00 -117.903
 OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.79977 28.61974 -0.00 65.3996
@@ -87,27 +87,4 @@ OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -80.80749 28.61936 0
 OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac -80.80749 28.61952 0.66 -22.9735
 OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac -80.80810 28.62033 0.35 64.3072
 OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac -80.80801 28.62027 0.35 64.0017
-# END piers_w090n20\w081n28\1629600
-
-OBJECT_SHARED Models/Airport/ndb.ac -80.816388 28.593108 4.99 180
-OBJECT_SHARED Models/Airport/ils.xml -80.797622 28.5075 8.33 1.65
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.971667 28.538056 -107.84 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.858861 28.547472 -101.91 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.855278 28.584444 -147.42 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.851861 28.617528 -142.02 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.84975 28.580528 -88.25 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.849722 28.580556 -98.23 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.848778 28.584361 -43.5 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.848611 28.584444 -42.6 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.836167 28.548028 -125.45 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.829444 28.543056 -150.7 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.818861 28.596472 -85.84 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.818333 28.596667 -105 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.816944 28.593056 -73.43 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.813611 28.611111 -126.96 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.813333 28.611111 -130.53 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.808611 28.608333 -164.39 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.802778 28.561667 -147.03 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.797222 28.548361 -148.29 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.794722 28.624444 -108.56 180
-OBJECT_SHARED Models/Airport/localizer.xml -80.796892 28.523742 5.02 89.12
+# END piers_w090n20_w081n28_1629600

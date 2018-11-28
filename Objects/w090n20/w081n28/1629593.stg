@@ -1,23 +1,23 @@
-# pylonsDetails_w090n20\w081n28\1629593
+# pylonsDetails_w090n20_w081n28_1629593
 # do not edit below this line
-# Last Written Sun Nov 25 22:25:34 2018
+# Last Written Wed Nov 28 16:25:12 2018
 #
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.58381 28.49612 1.06 127.234
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.58467 28.49712 0.61 141.636
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.58498 28.49724 0.48 156.037
-OBJECT_STATIC dcables00063.ac -80.58440 28.49668 0.77 90
-# END pylonsDetails_w090n20\w081n28\1629593
-# piers_w090n20\w081n28\1629593
+OBJECT_STATIC w090n20_w081n28_1629593dcables00063.ac -80.58440 28.49668 0.77 90
+# END pylonsDetails_w090n20_w081n28_1629593
+# piers_w090n20_w081n28_1629593
 # do not edit below this line
-# Last Written Sun Nov 25 22:25:35 2018
+# Last Written Wed Nov 28 16:25:12 2018
 #
-OBJECT_STATIC piers0101.ac -80.71938 28.40207 0.00 0
-OBJECT_STATIC piers0200.ac -80.69896 28.38402 0.00 0
-OBJECT_STATIC piers0600.ac -80.61730 28.38402 0.00 0
-OBJECT_STATIC piers0601.ac -80.61730 28.40207 0.00 0
-OBJECT_STATIC piers0602.ac -80.61730 28.42012 0.00 0
-OBJECT_STATIC piers0701.ac -80.59688 28.40207 0.00 0
-OBJECT_STATIC piers0702.ac -80.59688 28.42012 0.00 0
+OBJECT_STATIC w090n20_w081n28_1629593piers0101.ac -80.71938 28.40207 0.00 0
+OBJECT_STATIC w090n20_w081n28_1629593piers0200.ac -80.69896 28.38402 0.00 0
+OBJECT_STATIC w090n20_w081n28_1629593piers0600.ac -80.61730 28.38402 0.00 0
+OBJECT_STATIC w090n20_w081n28_1629593piers0601.ac -80.61730 28.40207 0.00 0
+OBJECT_STATIC w090n20_w081n28_1629593piers0602.ac -80.61730 28.42012 0.00 0
+OBJECT_STATIC w090n20_w081n28_1629593piers0701.ac -80.59688 28.40207 0.00 0
+OBJECT_STATIC w090n20_w081n28_1629593piers0702.ac -80.59688 28.42012 0.00 0
 OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.58770 28.40823 -0.00 99.9773
 OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -80.58839 28.40816 -0.00 122.22
 OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -80.60921 28.40867 -0.00 359.889
@@ -77,22 +77,4 @@ OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -80.71852 28.40186 0.00 8
 OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -80.71907 28.40178 0.00 262.934
 OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -80.71899 28.40209 -0.00 260.64
 OBJECT_SHARED Models/Maritime/Civilian/LargeTrawler.xml -80.61159 28.41313 -0.00 189.771
-# END piers_w090n20\w081n28\1629593
-
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.713056 28.395 -62.04 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.711667 28.401667 -112.31 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.703889 28.401667 -146.12 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.698611 28.451944 -108.17 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.616667 28.416667 -157.33 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.608333 28.381944 -127.84 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.607778 28.3975 -167.35 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.601667 28.411389 -111.98 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.580833 28.498056 -110.22 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.576414 28.492344 -146.66 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.565833 28.445833 -130.54 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.565833 28.4475 -130.74 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.561944 28.444167 -131.25 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.545 28.486389 -160.69 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.541111 28.468333 -122.3 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.537778 28.471389 -118.79 180
-OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -80.543427 28.460304 -1.88 0
+# END piers_w090n20_w081n28_1629593

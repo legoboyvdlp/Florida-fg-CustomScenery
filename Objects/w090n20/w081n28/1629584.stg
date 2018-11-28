@@ -1,6 +1,6 @@
-# pylonsDetails_w090n20\w081n28\1629584
+# pylonsDetails_w090n20_w081n28_1629584
 # do not edit below this line
-# Last Written Sun Nov 25 22:05:15 2018
+# Last Written Wed Nov 28 16:04:18 2018
 #
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.79518 28.36634 4.64 449.236
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.79517 28.36664 4.71 449.236
@@ -121,32 +121,14 @@ OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.79527 28.36910 5.18 0
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.79500 28.36910 5.14 0
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.79478 28.36910 5.11 0
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.79452 28.36910 5.08 0
-OBJECT_STATIC dcables00077.ac -80.79398 28.36858 4.91 90
-OBJECT_STATIC dcables00078.ac -80.75540 28.25099 5.97 90
-OBJECT_STATIC dcables00085.ac -80.75523 28.25089 5.98 90
-OBJECT_STATIC dcables00091.ac -80.75251 28.36734 6.33 90
-# END pylonsDetails_w090n20\w081n28\1629584
-# pylonsDetails_w090n20\w081n28\1629585
+OBJECT_STATIC w090n20_w081n28_1629584dcables00077.ac -80.79398 28.36858 4.91 90
+OBJECT_STATIC w090n20_w081n28_1629584dcables00078.ac -80.75540 28.25099 5.97 90
+OBJECT_STATIC w090n20_w081n28_1629584dcables00085.ac -80.75523 28.25089 5.98 90
+OBJECT_STATIC w090n20_w081n28_1629584dcables00091.ac -80.75251 28.36734 6.33 90
+# END pylonsDetails_w090n20_w081n28_1629584
+# pylonsDetails_w090n20_w081n28_1629585
 # do not edit below this line
-# Last Written Sun Nov 25 22:24:04 2018
+# Last Written Wed Nov 28 16:22:55 2018
 #
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.75048 28.34546 4.00 180.485
-# END pylonsDetails_w090n20\w081n28\1629585
-
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.815556 28.354167 -69.1 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.812222 28.363333 -121.86 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.789444 28.349722 -98.83 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.782778 28.356806 -86.91 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.7825 28.356667 -108.1 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.778889 28.353611 -113.71 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.774389 28.350167 -61.08 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.774167 28.350833 -74.44 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.773889 28.351667 -74.05 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.768056 28.344167 -135.68 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.756389 28.365833 -132.14 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.752833 28.3675 -74.32 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.752778 28.288611 -92.41 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.752222 28.366667 -140.37 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.751667 28.3675 -73.13 180
-OBJECT_SHARED Models/Communications/radio-tall.xml -80.912222 28.306389 -292.65 180
-
+# END pylonsDetails_w090n20_w081n28_1629585

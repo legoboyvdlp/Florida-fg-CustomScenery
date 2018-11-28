@@ -1,6 +1,6 @@
-# pylonsDetails_w090n20\w081n28\1629592
+# pylonsDetails_w090n20_w081n28_1629592
 # do not edit below this line
-# Last Written Sun Nov 25 22:06:27 2018
+# Last Written Wed Nov 28 16:05:12 2018
 #
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.75547 28.40427 10.05 180.663
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.75640 28.40426 8.05 222.524
@@ -71,27 +71,7 @@ OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.91631 28.38322 5.77 314.472
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.91631 28.38350 5.74 449.466
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.91574 28.38376 5.66 359.465
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -80.91527 28.38375 5.60 359.465
-OBJECT_STATIC dcables00029.ac -80.91579 28.38402 5.66 90
-OBJECT_STATIC dcables00079.ac -80.75618 28.40338 8.68 90
-OBJECT_STATIC dcables00083.ac -80.76651 28.46876 4.34 90
-# END pylonsDetails_w090n20\w081n28\1629592
-
-
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.999167 28.497778 -116.14 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.969722 28.455278 -127.05 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.968389 28.453361 -97.17 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.961944 28.431111 -115.74 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.842 28.406389 -105.2 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.833611 28.446667 -106.2 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.817222 28.385139 -99.98 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.784444 28.489722 -101.94 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.78 28.493333 -101.29 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.772778 28.446389 -146.35 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.768278 28.410917 -128.92 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.759167 28.384444 -98.4 180
-OBJECT_SHARED Models/Airport/marker.ac -80.796389 28.497083 8.26 180
-OBJECT_SHARED Models/Airport/marker.ac -80.795667 28.404144 6.83 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -80.780121 28.493532 -401.18 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -80.779879 28.493135 -401.22 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -80.764192 28.469668 -378.1 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -80.764141 28.469221 -378.09 180
+OBJECT_STATIC w090n20_w081n28_1629592dcables00029.ac -80.91579 28.38402 5.66 90
+OBJECT_STATIC w090n20_w081n28_1629592dcables00079.ac -80.75618 28.40338 8.68 90
+OBJECT_STATIC w090n20_w081n28_1629592dcables00083.ac -80.76651 28.46876 4.34 90
+# END pylonsDetails_w090n20_w081n28_1629592
